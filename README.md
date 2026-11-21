@@ -1,2 +1,3 @@
-# simple-calculator-app
-webapp built autonomously by Vixora Coding Agent: Create a simple, modern, responsive calculator web application. The design should be clean and minimalist using CSS, HTM
+# Lumina Calculator
+
+A modern, minimalist calculator built with precision. Features responsive design, glass-morphism UI, and standard arithmetic operations.
